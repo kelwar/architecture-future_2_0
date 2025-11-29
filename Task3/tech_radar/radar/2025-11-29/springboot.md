@@ -1,7 +1,7 @@
-title: "Python"
-ring: adopt
+title: "SpringBoot"
+ring: asset
 quadrant: languages-and-frameworks
 tags: [new]
 
 
-Python
+SpringBoot

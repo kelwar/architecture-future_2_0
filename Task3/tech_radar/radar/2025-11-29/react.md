@@ -1,7 +1,7 @@
-title: "Python"
-ring: adopt
+title: "React"
+ring: asset
 quadrant: languages-and-frameworks
 tags: [new]
 
 
-Python
+React
