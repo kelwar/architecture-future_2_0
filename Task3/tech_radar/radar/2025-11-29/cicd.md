@@ -1,5 +1,5 @@
 title: "CI/CD"
-ring: asset
+ring: assess
 quadrant: tools
 tags: [new]
 

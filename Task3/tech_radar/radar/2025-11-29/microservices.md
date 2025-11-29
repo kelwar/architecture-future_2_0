@@ -1,6 +1,6 @@
 title: "Microservices"
-ring: asset
-quadrant: methods and patterns
+ring: assess
+quadrant: methods-and-patterns
 tags: [new]
 
 

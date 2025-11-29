@@ -1,6 +1,6 @@
 title: "Yandex Cloud"
-ring: asset
-quadrant: platforms
+ring: assess
+quadrant: platforms-and-operations
 tags: [new]
 
 

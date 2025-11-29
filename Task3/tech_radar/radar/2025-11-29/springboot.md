@@ -1,5 +1,5 @@
 title: "SpringBoot"
-ring: asset
+ring: assess
 quadrant: languages-and-frameworks
 tags: [new]
 

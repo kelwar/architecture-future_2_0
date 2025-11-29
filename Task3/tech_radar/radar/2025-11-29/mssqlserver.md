@@ -1,6 +1,6 @@
 title: "SQL Server 2008"
 ring: adopt
-quadrant: platforms
+quadrant: platforms-and-operations
 tags: [new]
 
 

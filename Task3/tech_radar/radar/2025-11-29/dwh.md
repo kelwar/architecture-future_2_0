@@ -1,6 +1,6 @@
 title: "DWH"
 ring: adopt
-quadrant: platforms
+quadrant: platforms-and-operations
 tags: [new]
 
 
