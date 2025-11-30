@@ -1,0 +1,69 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/28.2.8 Chrome/140.0.7339.240 Electron/38.4.0 Safari/537.36" version="28.2.8">
+  <diagram name="Страница — 1" id="STN48Jy_c_cfSxc0q-U8">
+    <mxGraphModel dx="946" dy="618" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2sX6zKDhPpCIc3qNe79I-1" value="&amp;lt;&amp;lt;device&amp;gt;&amp;gt;&lt;div&gt;self-service-app-vm&lt;/div&gt;" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="100" y="360" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="2sX6zKDhPpCIc3qNe79I-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="2sX6zKDhPpCIc3qNe79I-2" target="2sX6zKDhPpCIc3qNe79I-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2sX6zKDhPpCIc3qNe79I-14" value="https:8443" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="2sX6zKDhPpCIc3qNe79I-11">
+          <mxGeometry x="0.4182" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2sX6zKDhPpCIc3qNe79I-2" value="&amp;lt;&amp;lt;artifact&amp;gt;&amp;gt;&lt;div&gt;self-service-app&lt;/div&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="135" y="420" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="2sX6zKDhPpCIc3qNe79I-3" value="&amp;lt;&amp;lt;device&amp;gt;&amp;gt;&lt;div&gt;self-service-db-vm&lt;/div&gt;" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="100" y="40" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="2sX6zKDhPpCIc3qNe79I-5" value="&amp;lt;&amp;lt;device&amp;gt;&amp;gt;&lt;div&gt;self-service-api-vm&lt;/div&gt;" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="100" y="200" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="2sX6zKDhPpCIc3qNe79I-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="2sX6zKDhPpCIc3qNe79I-6" target="2sX6zKDhPpCIc3qNe79I-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2sX6zKDhPpCIc3qNe79I-6" value="&amp;lt;&amp;lt;artifact&amp;gt;&amp;gt;&lt;div&gt;self-service-api&lt;/div&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="135" y="260" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="2sX6zKDhPpCIc3qNe79I-7" value="&amp;lt;&amp;lt;device&amp;gt;&amp;gt;&lt;div&gt;clickhouse-server-vm&lt;/div&gt;" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="400" y="200" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="2sX6zKDhPpCIc3qNe79I-8" value="&amp;lt;&amp;lt;artifact&amp;gt;&amp;gt;&lt;div&gt;clickhouse-server&lt;/div&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="435" y="260" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="2sX6zKDhPpCIc3qNe79I-4" value="&lt;div&gt;&amp;lt;&amp;lt;artifact&amp;gt;&amp;gt;&lt;/div&gt;self-service-db" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="135" y="100" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="2sX6zKDhPpCIc3qNe79I-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="2sX6zKDhPpCIc3qNe79I-6" target="2sX6zKDhPpCIc3qNe79I-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2sX6zKDhPpCIc3qNe79I-16" value="&amp;lt;&amp;lt;device&amp;gt;&amp;gt;&lt;div&gt;airflow-vm&lt;/div&gt;" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="640" y="200" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="2sX6zKDhPpCIc3qNe79I-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="2sX6zKDhPpCIc3qNe79I-17" target="2sX6zKDhPpCIc3qNe79I-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2sX6zKDhPpCIc3qNe79I-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="2sX6zKDhPpCIc3qNe79I-17" target="2sX6zKDhPpCIc3qNe79I-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2sX6zKDhPpCIc3qNe79I-17" value="&amp;lt;&amp;lt;artifact&amp;gt;&amp;gt;&lt;div&gt;airflow&lt;/div&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="675" y="260" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="2sX6zKDhPpCIc3qNe79I-19" value="&amp;lt;&amp;lt;device&amp;gt;&amp;gt;&lt;div&gt;api-gateway-vm&lt;/div&gt;" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="880" y="200" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="2sX6zKDhPpCIc3qNe79I-20" value="&amp;lt;&amp;lt;artifact&amp;gt;&amp;gt;&lt;div&gt;api-gateway&lt;/div&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="915" y="260" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="2sX6zKDhPpCIc3qNe79I-23" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Примечание&lt;/h1&gt;&lt;p&gt;С помощью terraform будут разворачиваться: self-service-app-vm, self-service-api-vm, self-service-db-vm, clickhouse-server-vm. Остальные будут разворачиваться вручную.&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="560" width="970" height="120" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
