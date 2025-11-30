@@ -2,7 +2,7 @@
 /Task3/tech_radar/node_modules
 /Task3/tech_radar/build
 /Task3/tech_radar/.techradar
-/Task4/.terraform
+/Task4/.terraform/
 /Task4/.terraform.lock.hcl
 /Task4/terraform.tfstate
 /Task4/terraform.tfstate.backup
